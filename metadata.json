@@ -1,0 +1,6 @@
+{
+  "name": "Workout Wild And Free",
+  "description": "Premium outdoor and natural fitness training platform featuring wild workout programs, custom plans, and holistic strength coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
